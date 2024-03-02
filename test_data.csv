@@ -1,0 +1,113 @@
+Artist,Title,Lyrics,track_id,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+Selena Gomez,Undercover,,5oGKB8ILJZB5m5Pkz1x5Rg,47,148636,False,0.68,0.967,1,-2.38,1,0.084,0.00263,0.102,0.444,0.42,87.993,4,breakbeat
+Eminem,Legacy,,6Pabk1NBG4giDGaBafwUPe,51,198426,False,0.587,0.772,4,-4.439,0,0.0375,0.0214,0.698,0.447,0.197,127.979,4,progressive-house
+Justin Bieber,So Sick,,2yLNRRuTwuuv6v6IU3uXyu,3,207186,False,0.679,0.682,6,-5.837,1,0.261,0.265,0.0,0.287,0.59,94.971,4,dance
+Post Malone,Remember,,0peoHOkfai7vlQhUIGVmtt,17,351272,False,0.619,0.69,5,-6.106,0,0.0776,0.0539,0.814,0.101,0.152,110.007,4,club
+Drake,Fake Love,,0hUeLzZyTbX5yXvKqdDYk9,18,191111,False,0.919,0.712,1,-8.471,1,0.278,0.0594,0.0319,0.13,0.684,151.945,4,club
+Phoebe Bridgers,I See You,,2RGWrbdINWdxBUll7sQzVL,50,180902,False,0.649,0.517,2,-8.016,1,0.0334,0.176,1.2e-05,0.171,0.456,144.89,4,chill
+Justin Bieber,Happy New Year,,0iJVDupX9f0VPwceljd4Ux,47,243066,False,0.691,0.935,2,-2.791,1,0.431,0.284,0.0,0.132,0.71,118.694,4,k-pop
+Maroon 5,New Love,,7CAsrtI5Df8ZOrKZ2ImrVO,55,256052,False,0.63,0.774,10,-7.876,0,0.0413,0.192,0.585,0.115,0.304,122.999,4,disco
+Lady Gaga,Million Reasons,,3YL8jLIarQdM1y2oRClov9,0,205280,False,0.666,0.423,0,-8.012,1,0.0429,0.494,0.0,0.106,0.154,129.893,4,dance
+Coldplay,Spiderwebs,,0Hs9WwuAMYmMiIaaYLhE6i,1,266706,False,0.485,0.924,10,-4.046,1,0.0579,0.0373,1.62e-06,0.248,0.661,143.244,4,alt-rock
+Beyoncé,Free Fall,,4ZAerT2NicBmzZ4VkpmWEn,51,205970,False,0.429,0.525,2,-4.399,1,0.0382,0.458,6.35e-05,0.124,0.228,133.897,4,dub
+Justin Bieber,Love Me,,2OtHPItRShU1by6SliultH,55,174975,False,0.706,0.606,1,-7.059,0,0.0789,0.033,0.00215,0.116,0.254,101.491,4,french
+Rihanna,Numb,,2nLtzopw4rPReszdYBJU6h,83,185586,False,0.496,0.863,9,-4.153,1,0.0381,0.0046,0.0,0.639,0.243,110.018,4,alternative
+Nicki Minaj,Perfect Day,,1H3mKSbxD87iKRj3aIg9nE,52,200973,False,0.17,0.174,2,-16.938,0,0.0358,0.914,0.0309,0.0635,0.0394,170.163,3,opera
+Rihanna,Haunted,,4vJfxpYeM088ddkHtSNqP1,3,185440,False,0.37,0.861,4,-4.588,0,0.0625,0.00959,0.00449,0.107,0.16,155.671,4,alternative
+Justin Bieber,Forever,,4LTeNJlLwIgMTPPyR0KaDP,54,174093,False,0.635,0.444,7,-11.772,1,0.039,0.656,0.00513,0.105,0.758,159.962,4,chill
+Khalid,Intro,,31Mf3aGYOpabMv9Nl6bLPn,19,86373,True,0.146,0.993,9,-3.506,1,0.091,1.4e-06,0.91,0.266,0.502,190.151,4,black-metal
+Ed Sheeran,Miss You,,4tqsFRjUHZ89bMEOAk3lUl,44,197546,False,0.592,0.686,9,-6.904,1,0.0389,0.178,0.0,0.111,0.397,101.015,4,acoustic
+Ed Sheeran,Bloodstream,,5I2UElY0XPnPhQhBTxBcq3,57,313800,False,0.701,0.463,6,-7.212,0,0.0416,0.357,0.00306,0.073,0.352,139.941,4,british
+Taylor Swift,Mine,,7uzmGiiJyRfuViKKK3lVmR,76,131064,True,0.71,0.789,4,-3.874,1,0.0722,0.0161,2.77e-06,0.451,0.717,142.929,4,dance
+Justin Bieber,Heartbreaker,,7d5rQgdrOfdcODLkyuwOrc,26,324693,False,0.878,0.839,3,-6.155,0,0.0352,0.189,0.763,0.138,0.707,120.004,4,deep-house
+Beyoncé,1+1,,3r6AJfqJ44FepL26lwLMPf,46,209186,False,0.636,0.713,0,-6.619,1,0.0526,0.0836,0.00707,0.099,0.904,175.004,4,folk
+Eminem,Good Guy,,2JUqYobT8NvARdPmc4ES2x,64,66786,False,0.525,0.131,0,-12.787,1,0.458,0.983,0.00433,0.12,0.811,107.007,5,soul
+Lady Gaga,Deep Blue,,6YBXCM0mLWNA6aLzFUNtEq,53,201600,False,0.564,0.722,11,-5.453,1,0.0444,0.566,1.26e-06,0.323,0.244,150.042,4,dub
+Coldplay,Animals,,1bOENKlPYEDXyH9kLFUsnj,3,185906,False,0.569,0.963,7,-3.069,1,0.0593,0.000787,0.0256,0.22,0.82,76.995,4,alt-rock
+Justin Bieber,Emotional,,4yNoaxUJjnP50AXYoAZx4S,51,235275,False,0.335,0.865,11,-4.672,0,0.0944,0.0027,0.276,0.107,0.411,149.85,4,dub
+Charlie Puth,River,,2IbztleYrj67nOjHQATCQ2,19,232586,False,0.569,0.704,5,-10.146,1,0.109,0.13,0.0,0.0725,0.865,104.725,4,afrobeat
+Dua Lipa,All or Nothing,,1lvp5HcDCr30dAOERyN54D,47,198144,False,0.461,0.955,7,-5.096,1,0.352,0.000993,2.75e-06,0.111,0.32,198.076,4,metalcore
+Billie Marten,She Dances,,72655YyFEnLXG54FC6tCtT,53,283393,False,0.679,0.122,4,-18.531,1,0.0444,0.965,0.00264,0.127,0.205,97.504,4,british
+Katy Perry,Ghost,,2pOE1OZQMJco5wJK40BMOq,32,224106,False,0.622,0.917,7,-3.493,1,0.0414,0.00777,0.0,0.367,0.345,105.022,4,children
+Drake,Toosie Slide,,0Yi403m0JdG16Qgm5eYkL9,11,252146,False,0.744,0.723,6,-4.505,1,0.109,0.269,0.0,0.199,0.763,81.619,4,kids
+Cardi B,Respect,,2yKBnKOmPXePrbHqRv42r4,64,237540,False,0.661,0.838,0,-4.806,1,0.116,0.00491,0.0,0.287,0.526,91.463,4,k-pop
+Drake,One Man Show,,4WDgGzRLIEe0rAVU8qLqWA,24,372580,False,0.436,0.82,2,-10.181,1,0.0567,0.0126,0.959,0.0859,0.594,217.282,1,minimal-techno
+Eminem,Insane,,3mLFCocZgUvih60frphM6l,58,166389,True,0.806,0.405,6,-11.277,0,0.0727,0.508,0.0915,0.104,0.329,119.961,4,chill
+Eminem,Survival,,0gcHJTrgtREqyZFeU3XhvS,13,55306,False,0.36,0.989,11,-11.76,1,0.127,0.00391,0.942,0.389,0.213,102.794,4,grindcore
+Beyoncé,Summertime,,2DFHZKhi5foiTa2iB8RFcG,24,164666,False,0.324,0.0655,10,-17.031,0,0.11,0.874,0.0,0.964,0.471,180.082,1,bluegrass
+Maroon 5,Infatuation,,68RqzBNbrTlT5RPygZM4BM,38,280286,False,0.355,0.335,7,-10.414,0,0.0357,0.195,0.0208,0.122,0.0395,74.533,4,club
+Nicki Minaj,Miami,,1CZiOG1oqXnEHhvP9Y3ETa,42,122790,True,0.938,0.438,1,-9.578,1,0.247,0.0157,0.0,0.0756,0.598,114.624,5,german
+Hozier,It Will Come Back,,2W0OHMIUBh3ZMZk59dgugg,37,218305,False,0.227,0.162,3,-19.039,1,0.0348,0.974,0.942,0.105,0.0613,110.689,4,guitar
+Lucy Dacus,Trust,,4aMGA71XMNIY8nOC7o9LJI,25,148995,False,0.396,0.901,11,-6.046,1,0.0473,1.36e-06,0.88,0.114,0.613,96.478,4,garage
+Lady Gaga,Vanity,,3VI92dLoR7zgCl5oa07lAs,27,227000,False,0.607,0.664,6,-5.954,0,0.032,0.013,0.00972,0.164,0.482,89.174,4,dub
+Cardi B,Broke,,1JqcZQCnxjDOfZZwQidb1H,60,207722,False,0.751,0.684,1,-4.325,1,0.303,0.433,5.92e-06,0.18,0.864,89.984,4,british
+Ariana Grande,Honesty,,19gCnDoMbugHhF7eMpLpe1,70,189000,True,0.66,0.139,6,-16.339,0,0.0323,0.964,1.1e-05,0.105,0.312,79.975,4,chill
+Justin Bieber,Stress,,2KEJlmiLIA40Rgsx4HRVev,32,282666,False,0.595,0.905,9,-2.336,1,0.0559,0.00929,0.00337,0.108,0.741,95.721,4,ska
+Drake,One Dance,,3oMiOuEGrVGjkQ3JDjcUFI,54,72328,False,0.67,0.0781,7,-24.643,1,0.0995,0.892,0.712,0.11,0.365,164.121,4,chill
+Taylor Swift,Bad Blood,,21jdyV98aurGa8pu2SCYFL,36,188040,False,0.483,0.807,5,-3.934,1,0.233,0.0362,0.0,0.32,0.637,169.862,4,children
+Selena Gomez,Disappear,,03Lx9vXoAga9Na7dNc4JaB,22,178025,True,0.436,0.91,10,-4.872,0,0.151,0.000139,0.029,0.185,0.168,154.744,4,death-metal
+BTS (방탄소년단),N.O,,2GEnvQgSJhedm2sqZlOP8o,62,209751,False,0.597,0.909,11,-4.5,0,0.16,0.0443,0.0,0.374,0.564,146.87,4,k-pop
+Justin Bieber,Purpose,,3pVerm3v4HIO9mlhDIqxpa,50,173362,False,0.752,0.342,6,-14.416,0,0.0956,0.881,0.00153,0.0885,0.309,99.987,4,sad
+BTS (방탄소년단),Crystal Snow,,6NbfFVZ01Ttvvqmcok8DxL,65,323360,False,0.618,0.766,3,-4.507,1,0.0323,0.117,0.0,0.121,0.448,113.997,4,k-pop
+Katy Perry,Only Love,,2OGMCY04v5CvjyhHun4ADm,40,276960,False,0.675,0.676,2,-3.779,1,0.0265,0.469,5.69e-05,0.179,0.502,122.99,4,blues
+Eminem,Hip Hop,,5fmHHe4RrxyDIaQXWt1wiL,28,237379,False,0.646,0.772,9,-6.685,0,0.0965,0.261,4.99e-05,0.0744,0.42,89.926,4,spanish
+Taylor Swift,Untouchable,,2hDMBVN3P47GEhH5VtmA6m,69,153210,False,0.658,0.603,2,-6.552,0,0.0676,0.472,0.0,0.124,0.519,146.864,4,hip-hop
+Drake,Scriptures,,4oJw7eOVYIAScDuAk8NGew,11,418533,False,0.666,0.811,1,-12.144,1,0.0583,0.0252,0.905,0.085,0.867,121.892,4,idm
+Katy Perry,Never Really Over,,2lsfMMmXKjxRX616wO9t6h,9,223840,False,0.735,0.749,8,-6.296,1,0.0489,0.0706,9.28e-06,0.102,0.202,100.021,4,kids
+Charlie Puth,Suffer,,4BgtIY3mw52U8YqwKImWPl,18,336053,False,0.718,0.748,9,-9.315,0,0.0367,0.0885,5.72e-05,0.0779,0.963,99.014,4,afrobeat
+Ariana Grande,Sometimes,,3CDCBn481xrZGB2isCWkp9,51,169127,False,0.185,0.0839,6,-26.019,0,0.0355,0.916,0.896,0.107,0.133,73.769,1,ambient
+Justin Bieber,Changes,,4H42cJBAm9NRJQl4Z3FiZy,15,281253,False,0.647,0.44,11,-15.182,0,0.0379,0.0175,0.0364,0.103,0.644,118.035,4,chicago-house
+Eminem,Untouchable,,2hDMBVN3P47GEhH5VtmA6m,69,153210,False,0.658,0.603,2,-6.552,0,0.0676,0.472,0.0,0.124,0.519,146.864,4,hip-hop
+Ed Sheeran,Scars,,4Rh78ubsarUiuzs60WuaU5,61,80718,False,0.738,0.517,7,-9.416,0,0.0696,0.72,0.0439,0.168,0.238,119.024,4,chill
+Beyoncé,Forward,,4YWCtJjkVxBVEzVZoAgGHR,0,205944,False,0.209,0.0951,2,-29.102,1,0.0631,0.816,0.972,0.101,0.0328,142.801,4,sleep
+Katy Perry,This Moment,,4oPOrzxNY75MRcv7RXG0O6,36,215546,False,0.456,0.702,4,-8.934,0,0.0351,0.0183,0.0065,0.137,0.183,173.963,4,drum-and-bass
+Katy Perry,Energy,,4wE8h4jRR10UmLsMk3t1ti,9,413840,False,0.898,0.839,1,-7.208,0,0.146,0.000114,0.904,0.0577,0.561,122.993,4,chicago-house
+Charlie Puth,Through It All,,0AzezC2xzQy50q7L3g11aU,24,159000,False,0.474,0.865,7,-3.926,0,0.0483,0.000659,1.78e-06,0.198,0.344,87.074,4,drum-and-bass
+Billie Marten,Bird,,4qC78OGZyxvgX8tJELu6jU,3,374290,False,0.614,0.188,6,-13.477,1,0.0401,0.967,0.926,0.119,0.18,111.486,3,ambient
+Justin Bieber,Feel My Love,,606B4jUfY2MA7wpbIGDoKp,21,216511,False,0.662,0.696,7,-9.099,1,0.0284,0.557,0.00861,0.34,0.84,111.933,4,bluegrass
+Lady Gaga,Power,,3Qnz0h9QoUcqr1webXWbYM,36,252014,False,0.517,0.87,7,-6.138,1,0.0482,0.00125,0.811,0.632,0.208,95.027,4,club
+Khalid,Motion,,25kGCuGWAYfyoz7RozlTpO,53,191120,False,0.137,0.00965,3,-34.079,1,0.0487,0.995,0.917,0.107,0.0895,176.173,3,ambient
+Angelo De Augustine,On My Way Home,,4iuGVtUXm2RfdyaGofN5MC,37,151119,False,0.427,0.0749,8,-22.719,1,0.0364,0.961,0.948,0.109,0.152,73.236,3,ambient
+Coldplay,Everyday Life,,6fBMKVPDNNdnKzaW4Hvu2M,0,258532,False,0.512,0.452,2,-8.991,1,0.0292,0.775,0.0818,0.065,0.235,124.103,4,pop
+Beyoncé,Irreplaceable,,0PFa5ChmDkkGHQ2rGwBn78,0,215312,False,0.642,0.184,2,-15.003,1,0.0282,0.872,4.65e-05,0.108,0.27,95.921,4,swedish
+Justin Bieber,Heartache,,0OwEskGUqCMgkSY7JkJS7x,57,265213,False,0.415,0.689,1,-6.486,1,0.0302,0.154,0.0,0.0637,0.245,143.043,4,emo
+Drake,Still Here,,7Mgu0aZziH1gnn4OPhIMEd,11,264380,False,0.516,0.525,1,-16.094,1,0.0375,0.807,0.855,0.0642,0.671,128.012,4,idm
+Julien Baker,Good News,,2x8BlDYVnlD57KLrbqXcbq,39,379840,False,0.604,0.801,11,-4.164,1,0.224,0.148,0.0,0.907,0.537,117.963,4,gospel
+BTS (방탄소년단),IDOL,,1e8J3XClxZbFmvIHLI8CE4,75,222732,False,0.733,0.855,9,-3.211,1,0.118,0.00481,0.0,0.123,0.42,126.035,4,k-pop
+Beyoncé,Oye,,0Ku3YuCgohtHEuwkzqD2A7,56,154000,False,0.588,0.675,9,-7.005,0,0.105,0.314,0.0,0.389,0.962,93.621,4,spanish
+Eminem,The Real Slim Shady,,3yfqSUWxFvZELEM4PmlwIR,87,284200,True,0.949,0.661,5,-4.244,0,0.0572,0.0302,0.0,0.0454,0.76,104.504,4,hip-hop
+Ariana Grande,Santa Baby,,7f2heXmnd24lwz7ng32qZ1,16,151826,False,0.706,0.308,8,-7.35,1,0.0343,0.6,0.0,0.254,0.62,114.974,4,club
+Taylor Swift,Brand New World,,1mV4Ti0I8kZF3Dd72qPEW5,57,258440,False,0.568,0.98,1,-4.368,1,0.151,0.00131,1.4e-06,0.436,0.65,160.1,4,j-pop
+John Mayer,Carry Me Away,,4Szq4dulKN9bOvLRW6uMdZ,66,159133,False,0.677,0.713,4,-6.626,1,0.0288,0.0117,0.15,0.0952,0.744,119.997,4,singer-songwriter
+Maroon 5,Kiss,,1foBcsKBlS2TvkXexVN91y,0,240733,False,0.461,0.887,11,-3.189,1,0.193,0.0358,0.0,0.118,0.638,167.957,4,country
+Taylor Swift,Better Off,,5pADCvrgwvQn82LhUmEXa2,33,183157,False,0.393,0.702,7,-5.158,1,0.0668,0.234,0.0,0.0948,0.448,151.927,4,dub
+Beyoncé,Heaven,,2EKxmYmUdAVXlaHCnnW13o,61,250063,False,0.619,0.28,8,-10.238,0,0.0317,0.73,0.0,0.103,0.292,129.948,4,acoustic
+Post Malone,Territorial Pissings,,6oZYLz0vZy8HhqwioRYtTp,59,142946,False,0.285,0.979,2,-4.428,1,0.175,0.000144,0.0,0.334,0.108,182.7,4,grunge
+Ed Sheeran,Hallelujah,,5D6xoqZwDoqRO5V9rNgxFO,54,267765,False,0.62,0.21,11,-9.633,0,0.0274,0.911,2.22e-06,0.108,0.163,98.558,3,acoustic
+Rihanna,Never Ending,,1SGbmqB3dxlrp4YkKzZUto,54,242000,False,0.613,0.85,1,-4.196,0,0.0927,0.339,0.000138,0.12,0.186,118.068,4,electronic
+Ariana Grande,Love Boy,,6ZqWXWIh6yy2tfJwX0xnO3,43,156895,False,0.789,0.793,3,-7.868,0,0.109,0.0252,0.00132,0.194,0.78,123.972,4,groove
+Rihanna,Photographs,,27wq82gy6a868oA5HNLRGv,51,60413,False,0.539,0.353,3,-10.191,1,0.0464,0.571,0.626,0.0877,0.321,54.571,4,acoustic
+Ed Sheeran,Postcards,,6u0jvUG3ngqeqawhCXtPFq,3,286973,False,0.723,0.617,11,-8.312,1,0.0301,0.566,0.0,0.252,0.677,100.015,4,rock
+Nicki Minaj,Only,,1b5t5WxtB7tg24OulHyXbQ,34,268455,False,0.293,0.175,7,-15.543,0,0.0308,0.903,0.528,0.109,0.089,83.182,3,folk
+Post Malone,Very Ape,,0hUit24g1EIoATdKYWUiRj,59,115813,False,0.262,0.886,1,-9.392,1,0.0336,3.11e-06,0.368,0.188,0.965,152.09,4,grunge
+Lady Gaga,Just Dance,,3VBXcradZOCVLaAh7FIcSi,0,244055,False,0.813,0.74,1,-4.668,0,0.0327,0.0318,1.43e-05,0.166,0.699,118.976,4,dance
+Selena Gomez,Souvenir,,21JL0gpeAYgbSUmzhgSPJz,60,212467,False,0.605,0.299,6,-11.192,0,0.0264,0.751,0.474,0.0943,0.181,109.008,4,ambient
+Justin Bieber,Overboard,,0NZJG1tdCFfzSWKC5WqHa8,58,150073,True,0.756,0.533,11,-8.303,1,0.0416,0.24,0.0,0.111,0.636,101.998,4,sad
+Drake,Unforgettable,,5KghnAajixZATYQOA4xNdi,49,208418,False,0.366,0.939,8,-3.505,1,0.231,0.00298,0.0,0.128,0.435,158.058,4,grunge
+John Mayer,Never on the Day You Leave,,3TQbr3G3U5wlwEJejmqC1F,56,220866,False,0.536,0.355,2,-8.61,1,0.0259,0.733,1.22e-05,0.138,0.22,139.888,4,singer-songwriter
+Lady Gaga,Bad Romance,,7oBxxv6C5ttINeFHzOVwS4,0,294573,True,0.695,0.921,0,-3.752,1,0.0363,0.00314,5.26e-05,0.0842,0.714,119.007,4,dance
+Drake,Between Us,,3MR6KVJrHzwkW7IkWHh2uZ,0,168063,False,0.45,0.462,8,-8.016,1,0.0325,0.0421,1.4e-05,0.104,0.165,166.025,4,idm
+Rihanna,Higher,,589SiueQ3yldZpKQMBGKk5,19,267910,False,0.765,0.888,9,-5.344,1,0.172,0.27,0.0,0.263,0.625,120.042,4,afrobeat
+Eminem,Without Me,,3HOcPWc2LUUv5te756KfAH,47,202219,False,0.664,0.301,0,-8.135,1,0.0296,0.739,0.0,0.103,0.268,115.877,4,acoustic
+Taylor Swift,The Last Time,,29YXX6TCgc7d5jz3BYF7Gc,38,219906,False,0.693,0.459,5,-12.451,0,0.0407,0.733,0.0593,0.12,0.35,81.024,4,folk
+BTS (방탄소년단),Let Me Know,,1SPDWTBH7qcjbZ8zMRXlQ9,61,188666,False,0.797,0.39,2,-6.594,1,0.0303,0.726,0.0,0.144,0.536,97.944,4,chill
+Justin Bieber,Turn Up,,3Z1QtfEOvU0IcPuVRNR0lz,18,226995,False,0.761,0.821,11,-4.963,0,0.089,0.101,0.00203,0.0607,0.216,95.038,4,breakbeat
+Dua Lipa,Cherry,,4sRmzVSedvFkENbSJ342Ex,59,271952,False,0.655,0.782,7,-6.388,0,0.0355,0.0336,0.228,0.175,0.812,108.245,4,electronic
+Selena Gomez,Flawless,,2Kt1XplPBQBsDKQDa6TssB,70,246493,True,0.568,0.871,0,-3.453,1,0.0308,0.0553,0.51,0.303,0.374,119.99,4,alt-rock
+James Bay,Sparks,,3ObS6mDRBsfMNaNNGO8ox4,0,218958,False,0.271,0.0757,2,-26.414,1,0.0397,0.976,0.941,0.0924,0.0399,73.761,3,ambient
+BTS (방탄소년단),Intro: Boy Meets Evil,,1hlT8F0X27uf3fpOWawjbY,64,121770,False,0.573,0.89,5,-3.53,0,0.214,0.0212,0.0,0.132,0.242,130.251,4,k-pop
+Lady Gaga,Telephone,,1oqIgJpPpW9wwXcitli8EF,44,222960,False,0.729,0.804,5,-5.183,0,0.0329,0.00363,3.12e-06,0.11,0.749,122.021,4,club
+Dua Lipa,New Love,,7CAsrtI5Df8ZOrKZ2ImrVO,55,256052,False,0.63,0.774,10,-7.876,0,0.0413,0.192,0.585,0.115,0.304,122.999,4,disco
+Katy Perry,Reborn,,7rQppQkXdaEbQI4wq22I7X,19,188000,False,0.315,0.948,8,-7.621,1,0.102,9.69e-05,0.198,0.326,0.318,113.139,4,black-metal
+Khalid,Vertigo,,3vTI0IjMJnEFS20GbwqjxH,19,219428,False,0.423,0.823,0,-2.25,1,0.159,0.00951,0.412,0.435,0.0759,121.098,3,drum-and-bass
+Selena Gomez,Perfect,,69yz6UcfUHCi795treLj3l,39,192397,False,0.559,0.118,7,-16.34,1,0.0421,0.979,0.935,0.109,0.289,97.1,4,acoustic
