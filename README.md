@@ -1,13 +1,14 @@
 # See demo video!! 
 https://drive.google.com/file/d/15MBqnywTcsLUESPE3Lzdo30UwexcBI27/view?ts=65f3dfdb
+![demo](https://github.com/rhea-mal/LyricGeneration/assets/70975260/44cfb7b0-4d70-41fa-8afd-3513f7948f1e)
 
-# LyricAid
+# Lyricade
 
-Welcome to the LyricAid repository! LyricAid is an innovative lyric generation tool that integrates detailed acoustic characteristics with lyrical creativity, powered by machine learning. Our model employs instrumental tracks and contextual cues, fine-tuning on a diverse dataset to produce lyrics that resonate with the musical essence and style of any specified artist.
+Welcome to the Lyricade repository! Lyricade is an innovative lyric generation tool that integrates detailed acoustic characteristics with lyrical creativity, powered by machine learning. Our model employs instrumental tracks and contextual cues, fine-tuning on a diverse dataset to produce lyrics that resonate with the musical essence and style of any specified artist.
 
 ## Repository Structure
 
-This repository is organized into several key directories, each containing essential components of LyricAid:
+This repository is organized into several key directories, each containing essential components of Lyricade:
 
 - **Acoustics/**: Contains Jupyter notebooks for feature extraction using the Librosa library. These notebooks detail our methodology for analyzing audio tracks and extracting meaningful acoustic features that contribute to the lyric generation process.
 
@@ -17,10 +18,10 @@ This repository is organized into several key directories, each containing essen
 
 ### Getting Started
 
-To begin using LyricAid, clone this repository to your local machine:
+To begin using Lyricade, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourgithub/LyricAid.git
+git clone https://github.com/yourgithub/Lyricade.git
 ```
 
 ### Prerequisites
@@ -60,11 +61,11 @@ python test.py
 
 ### Dataset
 
-The `Datasets/` directory contains the data used for training and testing LyricAid. This includes pre-processed and cleaned data, ready for machine learning applications.
+The `Datasets/` directory contains the data used for training and testing Lyricade. This includes pre-processed and cleaned data, ready for machine learning applications.
 
 ## Contributing
 
-We welcome contributions to LyricAid! If you have suggestions for improvements or new features, please feel free to fork the repository, make your changes, and submit a pull request.
+We welcome contributions to Lyricade! If you have suggestions for improvements or new features, please feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
 
@@ -72,4 +73,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Thank you for exploring LyricAid. We hope this tool inspires you to create beautiful, musically-aligned lyrics using the power of machine learning.
+Thank you for exploring Lyricade. We hope this tool inspires you to create beautiful, musically-aligned lyrics using the power of machine learning.
