@@ -21,7 +21,7 @@ This repository is organized into several key directories, each containing essen
 To begin using Lyricade, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourgithub/Lyricade.git
+git clone https://github.com/rhea-mal/Lyricade.git
 ```
 
 ### Prerequisites
@@ -47,7 +47,9 @@ Navigate to the `Acoustics/` directory and open the Jupyter notebooks in your pr
 
 ### Training and Testing the Model
 
-To train the model, navigate to the `Src/` directory and run the training script:
+To train the most advanced model, navigate to the `Src_final/` directory and run the training notebook.
+
+To train the basic model, navigate to the `Src/` directory and run the training script:
 
 ```bash
 python train.py
@@ -62,6 +64,9 @@ python test.py
 ### Dataset
 
 The `Datasets/` directory contains the data used for training and testing Lyricade. This includes pre-processed and cleaned data, ready for machine learning applications.
+
+The lyrics dataframe is constructed by merging and normalizing data across various datasets, including Genius Song Lyrics with Language Information{https://www.kaggle.com/datasets/carlosgdcj/genius-song-lyrics-with-language-information}, Song Lyrics Dataset{https://www.kaggle.com/datasets/deepshah16/song-lyrics-dataset}, and Lyrics Generation Dataset{https://www.kaggle.com/datasets/pratiksaha198/lyrics-generation?select=LYRICS_DATASET.csv}.
+    We used another Kaggle Exploring Spotify {https://www.kaggle.com/code/alankarmahajan/exploring-spotify-dataset} features dataset with pre-extracted acoustic features resulting in a combined dataset of 1153 rows and 22 columns containing song metadata, acoustic features, and lyrics.
 
 ## Contributing
 
